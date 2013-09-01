@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>sansation.ttf</file>
+    </qresource>
+</RCC>

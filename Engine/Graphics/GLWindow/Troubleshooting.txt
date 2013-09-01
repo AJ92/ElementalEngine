@@ -1,0 +1,8 @@
+Windows:
+
+1.
+Systemfolders must NOT contain the libs "libEGL" and "libGLESv2"
+Different versions can cause conflicts...
+
+2.
+The emulation is not threadsafe... so do not call any openGL ES functions from threads...
